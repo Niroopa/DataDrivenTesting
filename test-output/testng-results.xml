@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testngPractise" duration-ms="2973" started-at="2016-03-24T20:05:30Z" finished-at="2016-03-24T20:05:33Z">
+    <groups>
+    </groups>
+    <test name="TestCases" duration-ms="202" started-at="2016-03-24T20:05:30Z" finished-at="2016-03-24T20:05:30Z">
+      <class name="testngPractise.TestNG_Param">
+        <test-method status="PASS" signature="test_param(java.lang.String, java.lang.String, int)[pri:0, instance:testngPractise.TestNG_Param@1b0375b3]" name="test_param" duration-ms="61" started-at="2016-03-24T13:05:30Z" data-provider="getData" finished-at="2016-03-24T13:05:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomhardy@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_param -->
+        <test-method status="PASS" signature="test_param(java.lang.String, java.lang.String, int)[pri:0, instance:testngPractise.TestNG_Param@1b0375b3]" name="test_param" duration-ms="2" started-at="2016-03-24T13:05:30Z" data-provider="getData" finished-at="2016-03-24T13:05:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jackAndjill@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_param -->
+      </class> <!-- testngPractise.TestNG_Param -->
+    </test> <!-- TestCases -->
+    <test name="TestCase one" duration-ms="2104" started-at="2016-03-24T20:05:30Z" finished-at="2016-03-24T20:05:32Z">
+      <class name="testngPractise.Test_Param">
+        <test-method status="PASS" signature="testParam(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngPractise.Test_Param@511baa65]" name="testParam" duration-ms="2" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParam -->
+        <test-method status="PASS" signature="testParam(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngPractise.Test_Param@511baa65]" name="testParam" duration-ms="4" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jill]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bhfdr]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParam -->
+        <test-method status="PASS" signature="testParam(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngPractise.Test_Param@511baa65]" name="testParam" duration-ms="5" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bauer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shjdfhjdk]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParam -->
+        <test-method status="PASS" signature="testParam(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngPractise.Test_Param@511baa65]" name="testParam" duration-ms="2" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yhfhbm]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParam -->
+        <test-method status="PASS" signature="testParam(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngPractise.Test_Param@511baa65]" name="testParam" duration-ms="2" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[George]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jskdfhjsk]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParam -->
+      </class> <!-- testngPractise.Test_Param -->
+    </test> <!-- TestCase one -->
+    <test name="TestCase two" duration-ms="324" started-at="2016-03-24T20:05:32Z" finished-at="2016-03-24T20:05:32Z">
+      <class name="testngPractise.Test_hashtable_param">
+        <test-method status="PASS" signature="test_hash(java.util.Hashtable)[pri:0, instance:testngPractise.Test_hashtable_param@3d24753a]" name="test_hash" duration-ms="3" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{age=12.0, email=jack@gmail.com, password=abcdef, is_Correct=Y, gender=M, username=jack}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_hash -->
+        <test-method status="PASS" signature="test_hash(java.util.Hashtable)[pri:0, instance:testngPractise.Test_hashtable_param@3d24753a]" name="test_hash" duration-ms="1" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{age=10.0, email=Jill@gmail.com, password=bhfdr, is_Correct=N, gender=F, username=jill}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_hash -->
+        <test-method status="PASS" signature="test_hash(java.util.Hashtable)[pri:0, instance:testngPractise.Test_hashtable_param@3d24753a]" name="test_hash" duration-ms="2" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{age=22.0, email=bauer@gmail.com, password=shjdfhjdk, is_Correct=Y, gender=F, username=bauer}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_hash -->
+        <test-method status="PASS" signature="test_hash(java.util.Hashtable)[pri:0, instance:testngPractise.Test_hashtable_param@3d24753a]" name="test_hash" duration-ms="11" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{age=30.0, email=David@yahoo.om, password=yhfhbm, is_Correct=N, gender=M, username=David}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_hash -->
+        <test-method status="PASS" signature="test_hash(java.util.Hashtable)[pri:0, instance:testngPractise.Test_hashtable_param@3d24753a]" name="test_hash" duration-ms="5" started-at="2016-03-24T13:05:32Z" data-provider="getData" finished-at="2016-03-24T13:05:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{age=24.0, email=George@hotmail.com, password=jskdfhjsk, is_Correct=Y, gender=M, username=George}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_hash -->
+      </class> <!-- testngPractise.Test_hashtable_param -->
+    </test> <!-- TestCase two -->
+    <test name="TestCase three" duration-ms="0" started-at="2016-03-24T20:05:32Z" finished-at="2016-03-24T20:05:32Z">
+    </test> <!-- TestCase three -->
+    <test name="TestCase four" duration-ms="46" started-at="2016-03-24T20:05:33Z" finished-at="2016-03-24T20:05:33Z">
+      <class name="testngPractise.MultipleDataProvidersTest">
+        <test-method status="PASS" signature="testData(java.lang.String, java.lang.String)[pri:0, instance:testngPractise.MultipleDataProvidersTest@2f7a2457]" name="testData" duration-ms="7" started-at="2016-03-24T13:05:33Z" data-provider="dataprovider1" finished-at="2016-03-24T13:05:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bahubali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hxjxhajksdhsj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData(java.lang.String, java.lang.String)[pri:0, instance:testngPractise.MultipleDataProvidersTest@2f7a2457]" name="testData" duration-ms="4" started-at="2016-03-24T13:05:33Z" data-provider="dataprovider1" finished-at="2016-03-24T13:05:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Srimantudu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hhdjadakjdj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngPractise.MultipleDataProvidersTest@2f7a2457]" name="testData1" duration-ms="2" started-at="2016-03-24T13:05:33Z" data-provider="dataprovider1" finished-at="2016-03-24T13:05:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chiranjeevi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hxjxxsccvdsj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chiru@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData1 -->
+        <test-method status="PASS" signature="testData1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngPractise.MultipleDataProvidersTest@2f7a2457]" name="testData1" duration-ms="2" started-at="2016-03-24T13:05:33Z" data-provider="dataprovider1" finished-at="2016-03-24T13:05:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mahesh Babu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hhjhdcn]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mahesh@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData1 -->
+      </class> <!-- testngPractise.MultipleDataProvidersTest -->
+    </test> <!-- TestCase four -->
+  </suite> <!-- testngPractise -->
+</testng-results>

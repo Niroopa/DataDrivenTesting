@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testngPractise]">
+  <test name="TestCases">
+    <classes>
+      <class name="testngPractise.TestNG_Param"/>
+    </classes>
+  </test> <!-- TestCases -->
+  <test name="TestCase one">
+    <classes>
+      <class name="testngPractise.Test_Param"/>
+    </classes>
+  </test> <!-- TestCase one -->
+  <test name="TestCase two">
+    <classes>
+      <class name="testngPractise.Test_hashtable_param"/>
+    </classes>
+  </test> <!-- TestCase two -->
+  <test name="TestCase three">
+    <classes>
+      <class name="testngPractise.DataProviders"/>
+    </classes>
+  </test> <!-- TestCase three -->
+  <test name="TestCase four">
+    <classes>
+      <class name="testngPractise.MultipleDataProvidersTest"/>
+    </classes>
+  </test> <!-- TestCase four -->
+</suite> <!-- Failed suite [testngPractise] -->

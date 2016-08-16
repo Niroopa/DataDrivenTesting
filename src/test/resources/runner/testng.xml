@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+
+<suite name="testngPractise">
+
+
+	<test name="TestCases">
+
+		<classes>
+			<class name="testngPractise.TestNG_Param">
+			</class>
+
+		</classes>
+	</test> <!-- Test -->
+	
+	
+	<test name="TestCase one">
+
+		<classes>
+			<class name="testngPractise.Test_Param">
+			</class>
+
+		</classes>
+	</test> <!-- Test -->
+	
+	
+	<test name="TestCase two">
+
+		<classes>
+			<class name="testngPractise.Test_hashtable_param">
+			</class>
+
+		</classes>
+		</test> <!-- Test -->
+		
+	<test name="TestCase three">
+
+		<classes>
+			<class name="testngPractise.DataProviders">
+			</class>
+
+		</classes>
+		</test> <!-- Test -->
+		
+	<test name="TestCase four">
+
+		<classes>
+			<class name="testngPractise.MultipleDataProvidersTest">
+			</class>
+
+		</classes>
+</test> <!-- Test -->
+	
+
+
+</suite> <!-- Suite -->
